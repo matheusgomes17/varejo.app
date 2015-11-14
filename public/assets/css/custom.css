@@ -1,0 +1,78 @@
+.panel-default h1{padding-bottom: 5px;}
+.panel-default h2{
+	font-size: 1.05em;
+	padding: 0;
+	margin: 0;
+}
+.product h1{
+	font-size: 1.3em;
+	text-align: center;
+	font-weight: 500;
+	padding-bottom: 15px;
+	margin: 0;
+}
+.product h1 a{color: green;}
+.product h1 a:hover{color: #104000;}
+
+.privacymenu{
+	text-align: center;
+	background: #FFF;
+	list-style: none;
+	padding: 40px 20px;
+  	-webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+.privacymenu a{font-size: 1.2em; padding: 8px 0;}
+.privacycontent{
+	text-align: justify;
+	background: #FFF;
+	list-style: none;
+	padding: 20px;
+  	-webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+.privacycontent h1, h2{
+	text-align: center;
+}
+
+#footer h2{font-size: 1.35em;}
+#footer .mission{
+	font-size: 1.35em;
+	font-weight: 500;
+}
+#contact h1{font-size: 1.6em;}
+#prosim header h1{padding: 4px 0;}
+#details h1{font-size: 1.6em;}
+
+
+
+
+.no{font-size: 0; padding: 0; margin: 0;}
+
+.home img{float: left;}
+
+.navbar-brand h1{
+
+	margin: 2px 0 0 0;
+
+}
+
+.text h3{
+
+	margin: 0;
+
+}
+
+.text p{
+
+	margin: 0;
+
+}
+
+#top{
+	background-color: #022D10;
+}
+
+#copyright{
+	background-color: #111;
+}
